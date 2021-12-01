@@ -81,7 +81,6 @@
             $_SESSION['url'] = $url;
             header('Location: ../User/user.php');
         }
-
 	}
     ?>
 
