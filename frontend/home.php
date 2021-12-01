@@ -130,6 +130,11 @@
         color: white;
         font-weight: bold;
         padding-bottom: .1em;
+        background: transparent;
+        color: white;
+        height : 24px;
+        border : solid white;
+        border-width: .1em;
 
     }
 
